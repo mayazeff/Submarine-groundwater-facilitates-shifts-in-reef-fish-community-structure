@@ -1,4 +1,4 @@
-# Submarine groundwater facilitates shifts in reef fish community structure and feeding through trophic plasticity
+# Terrigenous nutrient pulses facilitate shifts in reef fish community structure and feeding through trophic plasticity
 
 Zeff, M.<sup>1*</sup>, Barnas, D. M.<sup>2</sup>, Silbiger, N. J.<sup>3</sup>
 
