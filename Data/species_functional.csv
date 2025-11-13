@@ -1,0 +1,54 @@
+﻿common,family,genus,code,functional
+Brown Surgeonfish,Acanthuridae,Acanthurus nigrofuscus,ACNI,Herbivore
+Guineafowl Puffer,Tetraodontidae,Arothron meleagris,AMEL,Corallivore
+Whitecheek Surgeonfish,Acanthuridae,Acanthurus nigricans,ANIG,Herbivore
+Banded Sergeant,Pomacentridae,Abudefduf septemfasciatus,ASEP,Omnivore
+Scissortail Sergeant,Pomacentridae,Abudefduf sexfasciatus,ASEX,Omnivore
+Blackspot Sergeant,Pomacentridae,Abudefduf sordidus,ASOR,Omnivore
+Convict Surgeonfish,Acanthuridae,Acanthurus triostegus ,ATRI,Herbivore
+Orange-lined Triggerfish,Balistidae,Balistapus undulatus,BUND,Omnivore
+Black-tip Reef Shark,Carcharhinidae,Carcharhinus melanopterus,CAME,Piscivore
+Threadfin Butterflyfish,Chaetodontidae,Chaetodon auriga,CAUR,Corallivore
+Twin Spot Wrasse,Labridae,Coris aygula,CAYG,Invertivore
+Floral Wrasse,Labridae,Cheilinus chlorourus,CCHL,Invertivore
+Speckled Butterflyfish,Chaetodontidae,Chaetodon citrinellus,CCIT,Corallivore
+Fringelip mullet,Mugilidae,Crenimugil crenilabis,CCRE,Omnivore
+Saddle Butterflyfish,Chaetodontidae,Chaetodon ephippium,CEPH,Corallivore
+Lemonpeel Angelfish,Pomacanthidae,Centropyge flavissima,CFLA,Omnivore
+Oval Butterflyfish,Chaetodontidae,Chaetodon lunulatus,CHLU,Corallivore
+Cigar Wrasse,Labridae,Cheilio inermis,CINE,Invertivore
+Surge Damselfish,Pomacentridae,Chrysiptera brownriggii,CLEU,Omnivore
+Raccoon Butterflyfish,Chaetodontidae,Chaetodon lunula,CLUN,Corallivore
+Bluefin Trevally,Carangidae,Caranx melampygus,CMEL,Piscivore
+Network Pipefish,Syngnathidae,Corythoicthys flavofasciatus,CORY,Invertivore
+Bullethead Parrotfish,Scaridae,Chlorurus spilurus,CSPI,Herbivore
+Double-saddle Butterflyfish,Chaetodontidae,Chaetodon ulietensis,CULI,Corallivore
+Vagabond Butterflyfish,Chaetodontidae,Chaetodon vagabundus,CVAG,Corallivore
+Blue-green Chromis,Pomacentridae,Chromis viridis,CVIR,Omnivore
+Whitetail Dascyllus,Pomacentridae,Dascyllus aruanus,DARU,Omnivore
+Honeycomb Grouper,Serranidae,Epinephelus merra,EMER,Piscivore
+Squaretail Mullet,Mugilidae,Ellochelon vaigiensis,EVAI,Omnivore
+Eye-bar Goby,Gobiidae,Gnatholepis anjerensis,GANJ,Invertivore
+Bird Wrasse,Labridae,Gomphosus varius,GVAR,Invertivore
+Checkerboard Wrasse,Labridae,Halichoeres hortulanus,HHOR,Invertivore
+Whiptail Stingray,Dasyatidae,Himantura fai,HFAI,Invertivore
+Longnose Parrotfish,Scaridae,Hipposcarus longiceps,HLON,Herbivore
+Threespot Wrasse,Labridae,Halichoeres trimaculatus,HTRI,Invertivore
+Barred flagtail,Kuhliidae,Kuhlia mugil,KMUG,Omnivore
+Blacktail Snapper,Lutjanidae,Lutjanus fulvus,LFUL,Invertivore
+Onespot Snapper,Lutjanidae,Lutjanus monostigma,LMON,Invertivore
+Yellowstripe Goatfish,Mullidae,Mulloidichthys flavolineatus,MFLA,Invertivore
+Yellowfin Goatfish,Mullidae,Mulloidicthys vanicolensis,MVAN,Invertivore
+Keeltail Needlefish,Beloniformes,Platybelone argalus,PLAR,Piscivore
+Yellow Boxfish,Ostraciidae,Ostracion cubicus,OCUB,Omnivore
+Manybar Goatfish,Mullidae,Parupeneus multifasciatus,PMUL,Invertivore
+Sapphire Damsel,Pomacentridae,Pomacentrus pavo,PPAV,Omnivore
+Lagoon Triggerfish,Balistidae,Rhinecanthus aculeatus,RACU,Omnivore
+Red-shoulder Wrasse,Labridae,Stethojulis bandanensis,SBAN,Invertivore
+Dusky Damselfish,Pomacentridae,Stegastes nigricans,SNIG,Omnivore
+Violet-lined parrotfish,Scaridae,Scarus globiceps,SGLO,Herbivore
+Palenose Parrotfish,Scaridae,Scarus psittacus,SPSI,Herbivore
+Spiny Rabbitfish,Siganidae,Siganus spinus,SSPI,Herbivore
+Sixbar Wrasse,Labridae,Thalassoma hardwicke,THAR,Invertivore
+Moorish Idol,Zanclidae,Zanclus cornutus,ZCOR,Omnivore
+Brown Tang,Acanthuridae,Zebrasoma scopas,ZSCO,Herbivore
