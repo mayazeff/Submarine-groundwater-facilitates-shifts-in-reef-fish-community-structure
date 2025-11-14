@@ -1,0 +1,45 @@
+﻿File Name,Variable,Description
+water_chemistry,Replicate,"Unique experimental replicate identifier combining reef location and environment (e.g., ReefAmbient1, ReefSGD1)"
+,Habitat,Benthic habitat type at sample location: Reef or Sand
+,Environment,Groundwater condition: SGD or Ambient
+,Tide,Tidal state during sample collection: High or Low
+,Day_Night,Diel period at time of sampling: Day or Night
+,SamplingTime,Time at sampling in 24-hour format (HH:MM)
+,TA,Calculated total alkalinity (µmol/kg) of each water sample
+,Salinity,"Salinity (psu) at time of calibration, measured via YSI Pro 2030"
+,pH,"pH (NBS scale), measured via YSI Pro 2030"
+herbivory_assay,Replicate,"Unique experimental replicate identifier combining reef location and environment (e.g., ReefAmbient1, ReefSGD1)"
+,Group,"Benthic habitat and groundwater condition combination where assay was deployed (e.g., ReefAmbient indicates algae deployed in a reef habitat and ambient groundwater conditions)"
+,Source,SGD or Ambient; environment where Padina boryana specimens were originally collectedt
+,Place,Cage or Open; placement of herbivory assay in experimental set up
+,Pre_algae_g,Pre-deployment algal biomass in grams 
+,Post_algae_g,Post-deployment algal biomass in grams
+,Date,Date of herbivory assay deployment (DD/MM/YYYY format)
+padina_nutrients,Environment,Groundwater condition: SGD or Ambient
+,weight_mg,"Dry weight of algal sample in milligrams (dried at 80°C for 24 hours, ground to fine powder)"
+,ug_N,Total nitrogen content in micrograms (measured via Costech ECS 4010 Elemental Combustion System)
+,del15N,"Nitrogen stable isotope ratio (δ¹⁵N, ‰) relative to atmospheric N₂ standard (measured via Thermo Finnigan DeltaPlus XP mass spectrometer)"
+,ug_C,Total carbon content in micrograms (measured via Costech ECS 4010 Elemental Combustion System)
+,del13C,"Carbon stable isotope ratio (δ¹³C, ‰) relative to VPDB standard (measured via Thermo Finnigan DeltaPlus XP mass spectrometer)"
+turbinaria_nutrients,Habitat,Benthic habitat type at sample location: Reef or Sand
+,Environment,Groundwater condition: SGD or Ambient
+,Site_ID,"Unique experimental replicate identifier combining reef location and environment (e.g., Reef_Amb_1, Reef_SGD_1)"
+,weight_mg,"Dry weight of algal sample in milligrams (dried at 80°C for 24 hours, ground to fine powder)"
+,ug_N,Total nitrogen content in micrograms (measured via Costech ECS 4010 Elemental Combustion System)
+,del15N,"Nitrogen stable isotope ratio (δ¹⁵N, ‰) relative to atmospheric N₂ standard (measured via Thermo Finnigan DeltaPlus XP mass spectrometer)"
+,ug_C,Total carbon content in micrograms (measured via Costech ECS 4010 Elemental Combustion System)
+,del13C,"Carbon stable isotope ratio (δ¹³C, ‰) relative to VPDB standard (measured via Thermo Finnigan DeltaPlus XP mass spectrometer)"
+species_functional,common,Common name of fish species
+,family,Taxonomic family
+,genus,Taxonomic genus
+,code,Species identification code used in video surveys
+,functional,"Functional group classification: Herbivore, Omnivore, Invertivore, Corallivore, or Piscivore"
+video_surveys,Habitat,Benthic habitat type at survey location: Reef or Sand
+,Environment,Groundwater condition: SGD or Ambient
+,Tide,Tidal state during survey: High or Low
+,Replicate,"Unique experimental replicate identifier combining reef location and environment (e.g., ReefAmbient1, ReefSGD1)"
+,Code,Species identification code used in video surveys
+,Activity,Fish behavior: Feeding or Natural (non-feeding)
+,Number_bites,Number of bites observed during feeding activity (NA for natural behavior observations)
+,Substrate,"Substrate where feeding occurred: turbinaria, coral, turf, sand, macroalgae, or plankton (water column); only recorded during feeding observations"
+,nmax,MaxN - maximum number of individuals of this species observed simultaneously in any single frame during the 10-minute observation period

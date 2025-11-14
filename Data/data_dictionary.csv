@@ -1,0 +1,7 @@
+﻿Folder Path,File Name,Description
+Data,herbivory_assay.csv,Biomass measurements of Padina boryana specimens before and after 6-hour deployment in reciprocal transplant feeding trials across SGD and ambient environments
+Data,padina_nutrients.csv,"Elemental composition (C, N) and stable isotope ratios (δ¹³C, δ¹⁵N) of Padina boryana specimens collected from SGD and ambient environments"
+Data,turbinaria_nutrients.csv,"Elemental composition (C, N) and stable isotope ratios (δ¹³C, δ¹⁵N) of Turbinaria ornata specimens collected from SGD and ambient environments"
+Data,species_functional.csv,Taxonomic information and functional group classifications for reef fish species observed in video surveys
+Data,video_surveys.csv,"Fish abundance, feeding behavior, and substrate use from underwater video surveys across SGD and ambient sites during high and low tides"
+Data,water_chemistry.csv,"Salinity, pH, and total alkalinity measurements from discrete water samples collected across tidal and diel cycles in SGD and ambient environments"
