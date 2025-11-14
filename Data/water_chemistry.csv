@@ -1,6 +1,6 @@
 ﻿Replicate,Habitat,Environment,Tide,Day_Night,SamplingTime,TA,Salinity,pH
 SandSGD1,Sand,SGD,Low,Day,8:00,2433.47347,36.46,8.17
-SandSGD2,Sand,SGD,High,Day,8:00,2342.49529,36.02,8.16
+SandSGD2,Sand,SGD,Low,Day,8:00,2342.49529,36.02,8.16
 SandSGD3,Sand,SGD,Low,Day,8:00,3667.9507,11.47,7.83
 SandSGD1,Sand,SGD,Low,Night,20:00,2505.41393,36.4,8.17
 SandSGD2,Sand,SGD,Low,Night,20:00,2366.485,36.61,8.18
